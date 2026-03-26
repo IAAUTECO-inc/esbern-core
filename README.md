@@ -10,3 +10,5 @@
 
 ## 3. Compliance
 Standardized under ISO/IEC 5230. All kinematic solvers and control loops are documented for institutional audit.
+### 🛡️ Content Reporting
+The maintainers of this repository accept content reports. If you encounter any content that violates our Code of Conduct or legal standards, please use the GitHub "Report content" feature or contact us directly at **contact@iaauteco.ovh**. We are committed to maintaining a secure and professional environment aligned with ISO/IEC 5230 standards.
